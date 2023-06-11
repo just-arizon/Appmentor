@@ -1,7 +1,9 @@
 # Appmentor
 The goal of this project is to develop a web application that aims to provide user-friendly and accessible guides and tutorials for various social media apps, like Discord . The application will serve as a resource hub where users can learn how to navigate and effectively utilize the features and functionalities.
-
 # Plan
+The web app will have a visually appealing and intuitive user interface designed to simplify the learning process for users who may be unfamiliar with Discord or face challenges in understanding its usage. It will feature a responsive layout that adapts to different screen sizes, ensuring a seamless experience across desktop and mobile devices.
+
+# Algoritm
 1. Onboarding and Registration:
 
 - Users will be able to create accounts or log in using their existing credentials.
